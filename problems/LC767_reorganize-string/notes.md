@@ -1,0 +1,17 @@
+# LC767 — Reorganize String
+
+**Topic:** Heap  
+**Difficulty:** Medium
+
+## Idea
+
+## Approach
+
+## Complexity
+- Time: 
+- Space: 
+
+## Pitfalls / edge cases
+
+## Revisit?
+- [ ] Need another pass
