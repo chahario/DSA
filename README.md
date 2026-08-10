@@ -1,15 +1,12 @@
 # DSA Tracker
 
-`187` unique problems across `50` days (308 scheduled slots). Tick a box when a problem is solved.
-
-> Edit `plan.md` and rerun `python generate.py` to refresh this file.
 
 
 ## Day 1 — Sliding Window baseline + 1 Prefix/Hash
 
 | ✓ | Problem | Topic | Diff | Solution | Notes |
 |---|---------|-------|------|----------|-------|
-| [ ] | LC1343 Count Subarrays of Size K with Average Greater than or Equal to Threshold | Sliding Window | Easy | [code](problems/LC1343_count-subarrays-of-size-k-with-average-greater-than-or-equal/Solution.java) | [notes](problems/LC1343_count-subarrays-of-size-k-with-average-greater-than-or-equal/notes.md) |
+| [✓] | LC1343 Count Subarrays of Size K with Average Greater than or Equal to Threshold | Sliding Window | Easy | [code](problems/LC1343_count-subarrays-of-size-k-with-average-greater-than-or-equal/Solution.java) | [notes](problems/LC1343_count-subarrays-of-size-k-with-average-greater-than-or-equal/notes.md) |
 | [ ] | LC424 Longest Repeating Character Replacement | Sliding Window | Medium | [code](problems/LC424_longest-repeating-character-replacement/Solution.java) | [notes](problems/LC424_longest-repeating-character-replacement/notes.md) |
 | [ ] | LC159 Longest Substring with At Most Two Distinct Characters | Sliding Window | Medium | [code](problems/LC159_longest-substring-with-at-most-two-distinct-characters/Solution.java) | [notes](problems/LC159_longest-substring-with-at-most-two-distinct-characters/notes.md) |
 | [ ] | LC1456 Maximum Number of Vowels in a Substring of Given Length | Sliding Window | Medium | [code](problems/LC1456_maximum-number-of-vowels-in-a-substring-of-given-length/Solution.java) | [notes](problems/LC1456_maximum-number-of-vowels-in-a-substring-of-given-length/notes.md) |
